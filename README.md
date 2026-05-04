@@ -46,28 +46,4 @@ Each folder represents a day of the course and contains:
 * Notes (if applicable)
 * Project files
 
-## ⚡ How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/100-days-of-code-python.git
-   ```
-2. Navigate to a specific day:
-
-   ```bash
-   cd Day-10
-   ```
-3. Run the Python file:
-
-   ```bash
-   python main.py
-   ```
-
-## 💡 Notes
-
-This repository is part of my learning journey. Code may not always be optimal, but reflects my understanding at each stage.
-
----
-
-🔥 *Consistency over perfection.*
